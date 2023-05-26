@@ -3,7 +3,7 @@
 @section('content')
     <h2 class="my-5">BUKU TELEPON</h2>
     <a href="/tambah-data" class="btn btn-outline-secondary mb-3">TAMBAH DATA</a>
-    <table class="table table-dark table-striped">
+    <table class="table table-secondary table-striped">
         <tr>
             <th>NAMA</th>
             <th>NOMOR TELEPON</th>
